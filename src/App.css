@@ -1,0 +1,15 @@
+.headerPart {
+  
+  margin-left: 20px;
+  
+}
+
+.rourterTab {
+  font-size: 14px;
+  color: blue;
+
+}
+
+.rourterTab li {
+ list-style-type: none;
+}

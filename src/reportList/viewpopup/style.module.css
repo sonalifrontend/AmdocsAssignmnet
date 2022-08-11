@@ -1,0 +1,10 @@
+.close {
+    float: right;
+    color:black;
+  }
+
+  .links{
+    color: red;
+    cursor: pointer;
+    text-decoration: none;
+  }
